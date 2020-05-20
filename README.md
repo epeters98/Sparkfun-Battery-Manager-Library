@@ -1,0 +1,1 @@
+# Sparkfun-Battery-Manager-Library
